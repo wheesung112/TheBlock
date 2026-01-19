@@ -286,6 +286,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1224556011}
   - component: {fileID: 1224556012}
+  - component: {fileID: 1224556013}
   m_Layer: 0
   m_Name: XR_Root
   m_TagString: Untagged
@@ -323,6 +324,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e8f8ba2eeb4d0fd4197bb7d65229a8b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1224556013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1224556010}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eee01eff58a6da04089f3737cdb9e24a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  repositionPointName: RepositionPoint
 --- !u!1 &1702884377
 GameObject:
   m_ObjectHideFlags: 0
