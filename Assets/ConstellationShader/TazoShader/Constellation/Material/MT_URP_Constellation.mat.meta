@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9dbdc067de559c94caddcb7a9c230939
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251719
+  packageName: WireFrame and Constellation Shader
+  packageVersion: 1.0
+  assetPath: Assets/ConstellationShader/TazoShader/Constellation/Material/MT_URP_Constellation.mat
+  uploadId: 575415

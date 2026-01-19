@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ec7c652386c1cb44dbb534c9a55f623c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251719
+  packageName: WireFrame and Constellation Shader
+  packageVersion: 1.0
+  assetPath: Assets/ConstellationShader/TazoShader/Constellation/Prefab/P_scorpio.prefab
+  uploadId: 575415

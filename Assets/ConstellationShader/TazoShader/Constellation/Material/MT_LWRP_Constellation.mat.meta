@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3902619c0c347784e97cc257010af15c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251719
+  packageName: WireFrame and Constellation Shader
+  packageVersion: 1.0
+  assetPath: Assets/ConstellationShader/TazoShader/Constellation/Material/MT_LWRP_Constellation.mat
+  uploadId: 575415

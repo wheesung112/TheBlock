@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4b900c53b117a0349a37fde43490e13a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251719
+  packageName: WireFrame and Constellation Shader
+  packageVersion: 1.0
+  assetPath: Assets/ConstellationShader/TazoShader/Constellation/ShowCase.unity
+  uploadId: 575415

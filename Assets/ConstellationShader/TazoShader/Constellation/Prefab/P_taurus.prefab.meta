@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 50ea79fbfe46e234bb8bbc62cc4a5a39
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251719
+  packageName: WireFrame and Constellation Shader
+  packageVersion: 1.0
+  assetPath: Assets/ConstellationShader/TazoShader/Constellation/Prefab/P_taurus.prefab
+  uploadId: 575415

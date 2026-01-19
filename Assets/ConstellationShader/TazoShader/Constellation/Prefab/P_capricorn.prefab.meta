@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1cc2916b4806e424082177de89de49db
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251719
+  packageName: WireFrame and Constellation Shader
+  packageVersion: 1.0
+  assetPath: Assets/ConstellationShader/TazoShader/Constellation/Prefab/P_capricorn.prefab
+  uploadId: 575415

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aaa2eec5f41077d40afeac9b46402380
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251719
+  packageName: WireFrame and Constellation Shader
+  packageVersion: 1.0
+  assetPath: Assets/ConstellationShader/TazoShader/Constellation/Material/MT_SRP_WireFrameSolid.mat
+  uploadId: 575415

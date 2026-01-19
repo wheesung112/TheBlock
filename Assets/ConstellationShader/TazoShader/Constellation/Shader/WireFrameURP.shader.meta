@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f09ac2b973bab274e845b2b8fa67e1fb
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251719
+  packageName: WireFrame and Constellation Shader
+  packageVersion: 1.0
+  assetPath: Assets/ConstellationShader/TazoShader/Constellation/Shader/WireFrameURP.shader
+  uploadId: 575415
