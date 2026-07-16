@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 197a46e376f8524d59a8c23738bee79c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207113
+  packageName: Rocky Desert Environment URP
+  packageVersion: 1.0
+  assetPath: Assets/RockyDesert/Scene/Main Camera Profile.asset
+  uploadId: 468954

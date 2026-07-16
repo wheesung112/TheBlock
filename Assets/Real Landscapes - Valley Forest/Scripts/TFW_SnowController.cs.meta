@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b04f5df66fd871a4bac9963433206451
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194338
+  packageName: Real Landscapes - Valley Forest
+  packageVersion: 1.2.1
+  assetPath: Assets/Real Landscapes - Valley Forest/Scripts/TFW_SnowController.cs
+  uploadId: 639685

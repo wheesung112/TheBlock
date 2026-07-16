@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7fc927783f40733438248e647c3acae4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 323618
+  packageName: Burning Paper Effect
+  packageVersion: 1.0.0
+  assetPath: Assets/Solodream/BurningPaperEffect/Shaders/Shader_Burning.shadergraph
+  uploadId: 767663

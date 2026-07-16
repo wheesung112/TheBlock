@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 87f72909bba080c7cb898e7724928798
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207113
+  packageName: Rocky Desert Environment URP
+  packageVersion: 1.0
+  assetPath: Assets/RockyDesert/Scene/Global Volume Profile.asset
+  uploadId: 468954

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: eabd44e53c1986e42a97fe72d35909dd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285632
+  packageName: Glitch Tool
+  packageVersion: 1.0
+  assetPath: Assets/Glitch Tool/scripts/Glitch_control.cs
+  uploadId: 665638

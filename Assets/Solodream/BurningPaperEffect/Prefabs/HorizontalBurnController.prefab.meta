@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 896fc4c2d0ab51e479eaf493e5590b34
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 323618
+  packageName: Burning Paper Effect
+  packageVersion: 1.0.0
+  assetPath: Assets/Solodream/BurningPaperEffect/Prefabs/HorizontalBurnController.prefab
+  uploadId: 767663

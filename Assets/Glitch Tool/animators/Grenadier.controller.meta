@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 27c58d50c6edca5448d27baa6e58aaa9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285632
+  packageName: Glitch Tool
+  packageVersion: 1.0
+  assetPath: Assets/Glitch Tool/animators/Grenadier.controller
+  uploadId: 665638

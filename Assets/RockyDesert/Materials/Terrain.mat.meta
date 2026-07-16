@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b8709af13cbe0d25c80bef3ebcde93d1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207113
+  packageName: Rocky Desert Environment URP
+  packageVersion: 1.0
+  assetPath: Assets/RockyDesert/Materials/Terrain.mat
+  uploadId: 468954

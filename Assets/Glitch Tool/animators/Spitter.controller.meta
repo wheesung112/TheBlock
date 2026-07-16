@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e9f813363085aa34d9772dc46d08c2bb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285632
+  packageName: Glitch Tool
+  packageVersion: 1.0
+  assetPath: Assets/Glitch Tool/animators/Spitter.controller
+  uploadId: 665638

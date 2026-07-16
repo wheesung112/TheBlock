@@ -1,0 +1,18 @@
+THIRD-PARTY NOTICES
+
+This asset package contains third-party content used under the following licenses:
+
+1. T_BG
+   Title: Vintage Smooth Textured Paper Background
+   License: Freepik Free License (requires attribution)
+   Source URL: https://www.freepik.com/free-photo/vintage-smooth-textured-paper-background_15599857.htm
+   Attribution: Designed by rawpixel.com on Freepik
+
+2. T_Paper
+   Title: White and Gray Floral Textile
+   License: Unsplash License (free for commercial use, no attribution required)
+   Source URL: https://unsplash.com/photos/white-and-gray-floral-textile-XFWiZTa2Ub0
+   Attribution: Provided by @sjobjio on Unsplash
+
+All third-party components included in this asset are compatible with the Unity Asset Store EULA.  
+For more information, please visit: https://unity.com/legal/asset-store-content-transparency

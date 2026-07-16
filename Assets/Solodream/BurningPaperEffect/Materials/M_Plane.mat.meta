@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6a0c040fde64ff041bb7132642d142e9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 323618
+  packageName: Burning Paper Effect
+  packageVersion: 1.0.0
+  assetPath: Assets/Solodream/BurningPaperEffect/Materials/M_Plane.mat
+  uploadId: 767663

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b63d40b53ef2cf2498168ccb055012f9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 323618
+  packageName: Burning Paper Effect
+  packageVersion: 1.0.0
+  assetPath: Assets/Solodream/BurningPaperEffect/Scripts/BurningPaperController_Vertical.cs
+  uploadId: 767663

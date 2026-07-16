@@ -1,0 +1,204 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4275394914657007356
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: glitch_urp_0
+  m_Shader: {fileID: -6465566751694194690, guid: 5737439c72538b84ba414cca280af4cb, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 8400000, guid: 783659aa855a4354db977840b0b6662a, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Main_texture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_415a0c7a6b22443aabb046d89c32ab1f_Out_0:
+        m_Texture: {fileID: 2800000, guid: d7568731a21747346a26f07589b98ef6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_69da5725c2904253898f934c66c6ddac_Out_0:
+        m_Texture: {fileID: 2800000, guid: d7568731a21747346a26f07589b98ef6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_a94c4314db774cadb2ab0a735872cad2_Out_0:
+        m_Texture: {fileID: 2800000, guid: d7568731a21747346a26f07589b98ef6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_d39f1b5b104e4b18b33beaa7009b07de_Out_0:
+        m_Texture: {fileID: 2800000, guid: d7568731a21747346a26f07589b98ef6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_ea7e0b79f154469585c3109a6d7e9183_Out_0:
+        m_Texture: {fileID: 2800000, guid: d7568731a21747346a26f07589b98ef6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Vector1_2061FA92: 50
+    - Vector1_911D4167: 0.0071
+    - Vector1_A2663FFF: 0.477
+    - Vector1_B7523AFA: 300
+    - Vector1_F2BD718E: 0
+    - Vector1_F390A29: 0.4
+    - _AlphaClip: 0
+    - _Blend: 0
+    - _BlendOp: 0
+    - _Boolean: 0
+    - _BumpScale: 1
+    - _ClearCoatMask: 0
+    - _ClearCoatSmoothness: 0
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _DetailAlbedoMapScale: 1
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _EnvironmentReflections: 1
+    - _Float: 0.239
+    - _Float_1: 50000
+    - _Float_2: 10
+    - _GlossMapScale: 0
+    - _Glossiness: 0
+    - _GlossyReflections: 0
+    - _Metallic: 0
+    - _OcclusionStrength: 1
+    - _Outline_thickness: 0.0025
+    - _Parallax: 0.005
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
+    - _SampleGI: 0
+    - _Smoothness: 0.5
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _Surface: 0
+    - _WorkflowMode: 1
+    - _ZWrite: 1
+    - _amplitude: 1
+    - _amplitude_x: -0.00131
+    - _amplitude_y: -0.00069
+    - _glitch_rate: 0.3
+    - _glitch_scale: 50
+    - _glitch_x: 0.2
+    - _glitch_x_1: -0.2
+    - _glitch_x_left: 0.03
+    - _glitch_x_right: -0.03
+    - _glitch_y: 0
+    - _glitch_y_1: 0
+    - _glitch_y_down: 0
+    - _glitch_y_up: 0
+    - _max_x: 0
+    - _max_y: 0
+    - _min_x: -0.01
+    - _min_x_1: 0
+    - _min_y: -0.001
+    - _outline_thickness: 0.00705
+    - _pixalate: 200
+    - _pixalate_1: 1000
+    - _pixalate_account: 180
+    - _pixalate_amplitude: 10
+    - _pixalate_speed: 10
+    - _speed: 20
+    - _speed_x: 0
+    - _speed_y: 0
+    - _thickness: 0.00259
+    m_Colors:
+    - Color_8C15F103: {r: 1, g: 1, b: 1, a: 1}
+    - Color_9BEE1D8E: {r: 1, g: 0, b: 0, a: 0}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 2.670157, g: 2.670157, b: 2.670157, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Outline_color: {r: 2.9960785, g: 2.9960785, b: 2.9960785, a: 0}
+    - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+    - _Vector2: {r: 0, g: 0, b: 0, a: 0}
+    - _Vector2_x: {r: 0.001, g: 0.002, b: 0, a: 0}
+    - _Vector2_y: {r: -0.001, g: 0.0005, b: 0, a: 0}
+    - _amplitude_x: {r: 0, g: 0, b: 0, a: 0}
+    - _amplitude_y: {r: -0.001, g: 0.001, b: 0, a: 0}
+    - _outline_color: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

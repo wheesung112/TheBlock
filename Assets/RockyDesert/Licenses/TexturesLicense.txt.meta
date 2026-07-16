@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 66704c5dcbf4bf7b68d4c038f27e36ae
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207113
+  packageName: Rocky Desert Environment URP
+  packageVersion: 1.0
+  assetPath: Assets/RockyDesert/Licenses/TexturesLicense.txt
+  uploadId: 468954

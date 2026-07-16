@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 87650362d67666152974dfed4bc13e17
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207113
+  packageName: Rocky Desert Environment URP
+  packageVersion: 1.0
+  assetPath: Assets/RockyDesert/Licenses/AudioLicense.txt
+  uploadId: 468954
